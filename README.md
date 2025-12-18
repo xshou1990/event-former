@@ -1,8 +1,8 @@
-# Self-Supervised Contrastive Pre-Training for Multivariate Temporal Point Processes
+# SELF-SUPERVISED CONTRASTIVE PRE-TRAINING FOR MULTIVARIATE EVENT STREAMS
 
-Source code for Self-Supervised Contrastive Pre-Training for Multivariate Temporal Point Processes
+Source code for SELF-SUPERVISED CONTRASTIVE PRE-TRAINING FOR MULTIVARIATE EVENT STREAMS
 
-# Run the code for  Self-Supervised Contrastive Pre-Training for Multivariate Temporal Point Processes
+# Run the code for  SELF-SUPERVISED CONTRASTIVE PRE-TRAINING FOR MULTIVARIATE EVENT STREAMS
 
 ### Dependencies
 * Python 3.7.
@@ -17,6 +17,6 @@ c.transformer. This folder contains our main models, modules that supports the t
 d. datastore. This folder contains datasets for pretraining. Each dataset contains train dev pickled files. 
 e. saved_models. This folder is a place holder for save models in pretraining and fine tuning. 
 
-2. **bash run.sh** to run the code (i.e.  ./so_run.sh ). If permission denied, put chmod u+x so_run.sh on commandline. and then ./so_run.sh.  See discussion https://stackoverflow.com/questions/18960689/ubuntu-says-bash-program-permission-denied
+2. **bash run.sh** to run the code (i.e.  ./so_run.sh ). 
 
 3. Caution: to run each dataset, change the transformer/Constants.py to appropriate number of types.
