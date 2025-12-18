@@ -20,3 +20,10 @@ e. saved_models. This folder is a place holder for save models in pretraining an
 2. **bash run.sh** to run the code (i.e.  ./so_run.sh ). 
 
 3. Caution: to run each dataset, change the transformer/Constants.py to appropriate number of types.
+
+4.Additional datasets are available at 
+[Google Drive Repository 1](https://drive.google.com/drive/folders/1gt4cR-yFINO745bcC5CMenwZ9QWGfFgr) 
+and 
+[Google Drive Repository 2](https://drive.google.com/drive/folders/1K46x1NiaSuKEhWkEkFe5avYr3ltai_6R).
+
+
